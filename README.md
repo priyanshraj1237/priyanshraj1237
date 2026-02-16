@@ -11,7 +11,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,css,django,docker,figma,firebase,gcp,git,js,kafka,kubernetes,mongodb,nextjs,nodejs,opencv,postgres,postman,python,react,redis,tensorflow" />
 </p>
